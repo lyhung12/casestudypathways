@@ -1,0 +1,54 @@
+Cau 1:python duoc thanh lap vao nam nao? A
+A.1991
+B.2021
+C.2023
+D.2000
+Câu 2:hãy chọn phương án đúng. Ngôn ngữ lập trình là gì? C
+A.Phương tiện soạn thảo văn bản trong đó có trương trình.
+B.Ngôn ngữ Pascal hoặc C
+C.Phương tiện diễn đạt thuật toán để máy tính thực hiện công việc.
+D.Phương tiện diễn đạt thuật toán.
+Câu 3:Ngôn ngữ lập trình  được Dennish phát triển dựa trên ngôn ngữ lập trình nào? D
+A.Ngôn ngữ B
+B.Ngôn ngữ BCPL
+C.Ngôn ngữ DEC PDP
+D.Ngôn ngữ B và BCPL
+Câu 4:Khẳng định nào sau đay về Python đúng? D
+A.Python là một ngôn ngữ lập trình cấp cao
+B.Python là một ngôn ngữ thông dịch
+C.Python là ngôn ngữ lập trình hướng đối tượng
+D.Tất cả đáp án trên đều đúng
+Câu 5:đâu là quy tắc đúng khi đặt tên cho biến trong Python? A
+A.Tên biến có thể bắt đầu bằng dấu gạch dưới"_"
+B.Có thể sử dụng Keyword làm tên biến
+C.Tên biến có thể bắt đầu bằng một chữ số
+D.Tên biến có thể có các kí hiệu !,@,#,$,%,...
+Câu 6:n trong đoạn sau là kiểu dữ liệu nào  = '5' B
+A.Integer
+B.String
+C.Tuple
+D.Operator
+Câu 7:Lệnh nào dùng để lấy dữ liệu đầu vào từ người dùng? C
+A.Cin
+B.Scanf()
+C.Input()
+D.Print()
+Câu 8:Kết quả của đoạn code này là? C
+     numbers=[2, 3, 4]print(numbers)
+A.2, 3, 4
+B.2 3 4
+C.[2, 3, 4]
+D.[2 3 4]
+Câu 9:Output của lệnh là B
+      print(3 >= 3)
+A.3 >= 3
+B.True
+C.False
+D.None
+Câu 10:kết qua của code sau là gì? A
+      x = 36 / 4 * (3 +  2) * 4 + 2
+print(x)
+A.182.0
+B.37
+C.117
+D.chương trình lỗi
